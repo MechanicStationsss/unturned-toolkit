@@ -1,6 +1,4 @@
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=50&pause=450&color=FF6B00&center=true&vCenter=true&width=1200&height=140&lines=UNTURNED+HACK+2026;GOD+MODE+%7C+INFINITE+AMMO+%7C+FLY;SURVIVE+THE+APOCALYPSE" alt="Unturned Hack 2026" />
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/02cedc37-79aa-44c8-aa70-c2301adca5bc" />
 
 <br/>
 
